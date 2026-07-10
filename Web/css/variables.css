@@ -1,0 +1,16 @@
+:root{
+
+    --primary:#0F172A;
+    --secondary:#2563EB;
+    --accent:#38BDF8;
+    --background:#F8FAFC;
+    --text:#334155;
+
+    --container:1200px;
+    --gradient-1:#2563EB;
+--gradient-2:#38BDF8;
+--gradient-3:#EEF6FF;
+
+--shadow:0 25px 60px rgba(37,99,235,.18);
+--radius:22px;
+}

@@ -1,0 +1,25 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+
+html{
+    scroll-behavior:smooth;
+}
+
+body{
+
+    font-family:'Manrope',sans-serif;
+
+    background:linear-gradient(
+        180deg,
+        #FFFFFF 0%,
+        #F8FAFC 35%,
+        #EEF6FF 100%
+    );
+
+    color:var(--text);
+
+}
+
