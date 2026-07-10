@@ -1,0 +1,5 @@
+User-agent: *
+
+Allow: /
+
+Sitemap: https://rubenrv1999.github.io/KYVERA/sitemap.xml
